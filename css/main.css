@@ -1,0 +1,17 @@
+* {
+  margin: 0;
+  border: 0;
+}
+
+body {
+  display: flex;
+  align-content: center;
+  background-color: #111;
+}
+
+canvas {
+  margin: 10px auto;
+  background-color: #000;
+  border: 1px solid #555;
+  border-radius: 3px;
+}
